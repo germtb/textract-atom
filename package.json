@@ -1,19 +1,20 @@
 {
-	"name": "textract",
-	"main": "./lib/textract",
-	"version": "0.0.0",
-	"description": "This package provide some little functionalities for very common text manipulation patterns",
-	"keywords": [
-		"refactor",
-		"text",
-		"javascript"
-	],
-	"activationEvents": ["atom-plugin:run"],
-	"repository": "https://github.com/germtb/textract-atom",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"dependencies": {
-	}
+  "name": "textract",
+  "main": "./lib/textract",
+  "version": "0.1.0",
+  "description": "This package provide some little functionalities for very common text manipulation patterns",
+  "keywords": [
+    "refactor",
+    "text",
+    "javascript"
+  ],
+  "activationEvents": [
+    "atom-plugin:run"
+  ],
+  "repository": "https://github.com/germtb/textract-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
