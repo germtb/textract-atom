@@ -1,13 +1,12 @@
 {
 	"atom-workspace atom-text-editor:not([mini])": {
-		"alt-o": "textract:down",
-		"alt-shift-o": "textract:up",
-		"alt-c": "textract:alt-c",
-		"alt-shift-c": "textract:alt-shift-c",
-		"alt-d": "textract:alt-d",
-		"alt-shift-d": "textract:alt-shift-d",
+		"alt-o": "textract:line-down",
+		"alt-shift-o": "textract:line-up",
+		"alt-c": "textract:console-down",
+		"alt-shift-c": "textract:console-up",
+		"alt-d": "textract:debugger-down",
+		"alt-shift-d": "textract:debugger-up",
 		"cmd-shift-c": "textract:extract-const",
-		"cmd-shift-v": "textract:extract-var",
-		"cmd-shift-l": "textract:extract-let"
+		"cmd-shift-v": "textract:extract-var"
 	}
 }

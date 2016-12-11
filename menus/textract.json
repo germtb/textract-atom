@@ -1,0 +1,68 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Line down",
+				"command": "textract:line-down"
+			}, {
+				"label": "Line up",
+				"command": "textract:line-up"
+			}, {
+				"label": "Console down",
+				"command": "textract:console-down"
+			}, {
+				"label": "Console up",
+				"command": "textract:console-up"
+			}, {
+				"label": "Debugger down",
+				"command": "textract:debugger-down"
+			}, {
+				"label": "Debugger up",
+				"command": "textract:debugger-up"
+			}, {
+				"label": "Extract const",
+				"command": "textract:extract-const"
+			}, {
+				"label": "Extract var",
+				"command": "textract:extract-var"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "textract",
+					"submenu": [
+						{
+							"label": "Line down",
+							"command": "textract:line-down"
+						}, {
+							"label": "Line up",
+							"command": "textract:line-up"
+						}, {
+							"label": "Console down",
+							"command": "textract:console-down"
+						}, {
+							"label": "Console up",
+							"command": "textract:console-up"
+						}, {
+							"label": "Debugger down",
+							"command": "textract:debugger-down"
+						}, {
+							"label": "Debugger up",
+							"command": "textract:debugger-up"
+						}, {
+							"label": "Extract const",
+							"command": "textract:extract-const"
+						}, {
+							"label": "Extract var",
+							"command": "textract:extract-var"
+						}
+					]
+				}
+			]
+		}
+	]
+}
