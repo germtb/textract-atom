@@ -1,0 +1,13 @@
+{
+	"atom-workspace atom-text-editor:not([mini])": {
+		"alt-o": "textract:down",
+		"alt-shift-o": "textract:up",
+		"alt-c": "textract:alt-c",
+		"alt-shift-c": "textract:alt-shift-c",
+		"alt-d": "textract:alt-d",
+		"alt-shift-d": "textract:alt-shift-d",
+		"cmd-shift-c": "textract:extract-const",
+		"cmd-shift-v": "textract:extract-var",
+		"cmd-shift-l": "textract:extract-let"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"context-menu": {
+		"atom-text-editor": [{
+				"label": "Up",
+				"command": "textract:up"
+			}, {
+				"label": "Down",
+				"command": "textract:down"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "textract",
+					"submenu": [{
+						"label": "Up",
+						"command": "textract:up"
+					}, {
+						"label": "Down",
+						"command": "textract:down"
+					}
+			]
+				}
+			]
+		}
+	]
+}

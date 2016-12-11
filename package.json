@@ -1,0 +1,16 @@
+{
+	"name": "textract",
+	"main": "./lib/textract",
+	"version": "0.0.0",
+	"description": "A short description of your package",
+	"keywords": [
+	],
+	"activationEvents": ["atom-plugin:run"],
+	"repository": "https://github.com/atom/textract-atom",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"dependencies": {
+	}
+}
