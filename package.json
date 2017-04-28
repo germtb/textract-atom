@@ -1,7 +1,7 @@
 {
   "name": "textract",
   "main": "./lib/textract",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "This package provide some little functionalities for very common text manipulation patterns",
   "keywords": [
     "refactor",
