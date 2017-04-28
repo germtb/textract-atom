@@ -1,7 +1,5 @@
 {
 	"atom-workspace atom-text-editor:not([mini])": {
-		"alt-o": "textract:line-down",
-		"alt-shift-o": "textract:line-up",
 		"alt-c": "textract:console-down",
 		"alt-shift-c": "textract:console-up",
 		"alt-d": "textract:debugger-down",
